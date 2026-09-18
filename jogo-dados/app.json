@@ -2,6 +2,7 @@
   "expo": {
     "name": "jogo-dados",
     "slug": "jogo-dados",
+    "owner": "beatrizfariasilvas-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +38,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "c509ae85-4c15-4332-9b4d-3864a6885261"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/c509ae85-4c15-4332-9b4d-3864a6885261"
     }
   }
 }
